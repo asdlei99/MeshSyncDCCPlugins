@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.0-pre.1] - 2020-10-2
+* chore: update package to conform to requirements in Unity 2021
+
+
 ## [0.4.0-preview] - 2020-09-29
 * feat: add support for Blender 2.90 
 * fix: check the number of UV sets in blender before getting the data
